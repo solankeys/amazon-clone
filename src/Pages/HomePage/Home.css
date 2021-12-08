@@ -1,0 +1,19 @@
+.home_imageContainer {
+  width: 100%;
+  height: 100%;
+  margin-bottom: -20%;
+}
+.home__image {
+  width: 100%;
+  height: 100%;
+  object-fit: cotain;
+  mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+}
+.home-top-section,
+.home-middle-section {
+  display: flex;
+}
+/* .home-holiday-gifts {
+  display: flex;
+  flex-wrap: wrap;
+} */

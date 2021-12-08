@@ -1,0 +1,12 @@
+.cart {
+  display: flex;
+}
+.cart-left {
+  flex: 5;
+}
+.cart-right {
+  flex: 1;
+}
+.cart-items > h2 {
+  text-align: center;
+}

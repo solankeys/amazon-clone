@@ -1,0 +1,17 @@
+.checkout-btn {
+  background: #cd9042;
+  border: none;
+  outline: none;
+  color: #fff;
+  padding: 5px;
+  border-radius: 3px;
+  width: 80px;
+  text-align: center;
+  align-items: center;
+  margin: 0 auto;
+  width: auto;
+}
+
+.subtotal {
+  margin: 30px;
+}
